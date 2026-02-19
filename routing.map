@@ -1,4 +1,4 @@
-# ---------- NowTV ----------
+# ---------- NowTV Ireland ----------
 connect.ctn.ovpe.prod.ott.sky            31.57.56.226:443;
 a1tuir9nhggark-ats.iot.eu-central-1.amazonaws.com           31.57.56.226:443;
 ovp.nowtv.com           31.57.56.226:443;
@@ -15,4 +15,4 @@ deia4xql9svfx.cloudfront.net            31.57.56.226:443;
 g004-vod-ie-cmaf-prd-cf.pcdn05.cssott02.com            31.57.56.226:443;
 d2e86ntxh4w751.cloudfront.net            31.57.56.226:443;
 eu.api.atom.nowtv.com            31.57.56.226:443;
-# ---------- Peacock ----------
+# ---------- Peacock US ----------
