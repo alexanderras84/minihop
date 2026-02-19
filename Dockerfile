@@ -31,6 +31,7 @@ RUN mkdir -p /etc/minihop/
 
 # Copy Files
 COPY nginx.conf /etc/nginx/nginx.conf
+COPY routing.map /etc/nginx/routing.map
 COPY entrypoint.sh /entrypoint.sh
 COPY generateACL.sh /generateACL.sh
 COPY dynDNSCron.sh /dynDNSCron.sh
